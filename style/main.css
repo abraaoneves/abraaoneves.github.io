@@ -36,10 +36,9 @@ body {
 }
 #contact-links a {
     font-size: 20px;
-    transition: 0s color;
+    color: blueviolet
 }
 
 #contact-links a:hover {
     color: goldenrod;
-    transition-delay:1s;
 }
