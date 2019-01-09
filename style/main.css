@@ -1,0 +1,43 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
+html,
+body {
+    background: black;
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+}
+
+#portifolio h1 {
+    color: white;
+}
+
+#portifolio p {
+    padding-top: 0%;
+    color: springgreen;
+}
+
+#contact-links,
+#description {
+    justify-content: center;
+}
+
+#description p {
+    color: white;
+}
+#contact-links a {
+    font-size: 20px;
+}
+
+#contact-links a:hover {
+    color: goldenrod;
+}
