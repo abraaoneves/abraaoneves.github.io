@@ -23,7 +23,7 @@ body {
 
 #portifolio p {
     padding-top: 0%;
-    color: springgreen;
+    color: blueviolet;
 }
 
 #contact-links,
@@ -31,14 +31,15 @@ body {
     justify-content: center;
 }
 
-#description p {
+#description * {
     color: white;
 }
+
 #contact-links a {
     font-size: 20px;
     color: blueviolet
 }
 
 #contact-links a:hover {
-    color: goldenrod;
+    color: greenyellow;
 }
